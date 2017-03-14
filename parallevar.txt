@@ -1,5 +1,11 @@
 Andres Baekelmans
 pijama
 bufanda
+<<<<<<< HEAD
 pantalones
 camisetas
+=======
+ipad
+reflex
+bañador
+>>>>>>> OP
